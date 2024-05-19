@@ -13,8 +13,6 @@
 
 - 💬 Ask me about **Frontend development**
 
-- 📫 How to reach me **fhd04598@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>

@@ -5,15 +5,13 @@
 
 - 🔭 I’m currently working on **Frontend development**
 
-- 🌱 I’m currently learning **More about Frontend development and also started to explore web3 field as well**
+- 🌱 I’m currently learning **More about Frontend development.**
 
 - 👯 I’m looking to collaborate on **Open source**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Fahad-Ahammed?tab=repositories](https://github.com/Fahad-Ahammed?tab=repositories)
 
 - 💬 Ask me about **Frontend development**
-
-- 📫 How to reach me **fhd04598@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

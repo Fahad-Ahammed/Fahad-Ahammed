@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahad-ahammed&label=Profile%20views&color=0e75b6&style=flat" alt="fahad-ahammed" /> </p>
 
-- 🔭 I’m currently working on **Frontend development**
+💻 Focus: Modern Frontend Development (React, Next.js, TypeScript)
 
-- 🌱 I’m currently learning **More about Frontend development.**
+📚 Learning: Advanced architecture & server-side rendering
 
-- 👯 I’m looking to collaborate on **Open source**
+🤝 Open Source: open to collaboration
 
-- 👨‍💻 All of my projects are available at [https://github.com/Fahad-Ahammed?tab=repositories](https://github.com/Fahad-Ahammed?tab=repositories)
+💬 Let's Talk: Frontend performance, component design, & web design
 
-- 💬 Ask me about **Frontend development**
+📂 Work: Browse my GitHub Repositories
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
